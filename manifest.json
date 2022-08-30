@@ -1,7 +1,7 @@
 {
 	"name": "Auto Experiments",
-	"version": "1.0.0",
-	"description": "Very nais",
+	"version": "1.1.0",
+	"description": "Automatically enable experiments for Powercord",
 	"author": "Roizor",
 	"license": "MIT",
 	"repo": "https://github.com/Roizor/autoexperiments"
